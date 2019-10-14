@@ -1,0 +1,19 @@
+{
+  "name": "reading-comprehension-test",
+  "version": "1.0.0",
+  "description": "A website to test your reading speed and comprehension",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Brandon Minner",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.7.12",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
